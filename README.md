@@ -17,3 +17,6 @@ To install requests: "pip install requests".
 To install NLTK: "pip install nltk" and afterwards go to an IDE of your choice (I used Visual Studio Code) and type nltk.download() and run the program.
 
 To install scikit-learn: "pip3 install scikit-learn"
+
+This video is an example of my program.
+https://youtu.be/umqjraEvxWQ
